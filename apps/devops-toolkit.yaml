@@ -18,6 +18,4 @@ spec:
       tag: 2.9.17
     ingress:
       host: staging.devops-toolkit..nip.io
-    rollout:
-      enabled: true 
 
